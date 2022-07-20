@@ -1,3 +1,4 @@
+//C++ program to read time in HH:MM:SS format and convert into total seconds using class
 #include<iostream>
 #include <iomanip>
 using namespace std;
